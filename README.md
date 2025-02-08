@@ -6,15 +6,6 @@
 	<title>just click in word</title>
 <style>
 	body {
-    	background:url();
-    	background-size: 100%;
-    	position: fixed;
-    	}	
-</style>
-<audio src="BADMAN.mp3" controls loop autoplay class="mp3"></audio>
-<video src="BADMAN.mp4" controls loop autoplay muted height="300px" width="500px"></video>
-<style>
-	body {
     	background:url(https://images.wallpaperscraft.ru/image/single/nochnoj_gorod_vid_sverhu_ogni_goroda_134887_3840x2400.jpg);
     	background-size: 100%;
     	}	
